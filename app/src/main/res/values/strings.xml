@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">stepClassWork2.1</string>
+    <string name="activity_main_button_check_name">Check name</string>
+    <string name="activity_main_button_registration">Registration</string>
+
+    <string name="activity_registration_edit_text_login_hint">Name</string>
+    <string name="activity_registration_edit_text_email_hint">Email</string>
+    <string name="activity_registration_edit_text_password_hint">Password</string>
+    <string name="activity_registration_edit_text_repeat_password_hint">Repeat password</string>
+    <string name="activity_registration_button_send_caption">Send</string>
+    <string name="activity_registration_text_view_status_error_null">The field cannot be empty</string>
+    <string name="activity_registration_text_view_status_error_name_number">The field must contain a number</string>
+    <string name="activity_registration_text_view_status_error_name_string">The field must contain the letter</string>
+    <string name="activity_registration_text_view_status_error_password_equals">Password mismatch</string>
+
+    <string name="activity_check_name_button_check">Check</string>
+    <string name="activity_check_name_edit_text_editor">Write text</string>
+    <string name="activity_check_name_text_view_success">Everithing looks fine!</string>
+    <string name="activity_check_name_text_view_error">Error, we have digits in our name!</string>
+</resources>
